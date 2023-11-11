@@ -7,3 +7,6 @@
  Most important thing was:/
  BleKeyboard library was so big that requre more space, using default settings you cannot upload your code to the ESP, so
  during uploading of this code to your ESP you need to select partition scheme -> No OTA(2MB APP/2MB SPIFFS)
+
+### Look on the webpage:
+![Picture](https://github.com/Nesa00/web_bluetooth_keyboard_ESP32/blob/main/web_keyboard.PNG)
