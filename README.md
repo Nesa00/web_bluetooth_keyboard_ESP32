@@ -50,5 +50,5 @@ Use this device responsibly.
 - Be aware of security implications—anyone who accesses the webpage may control the keyboard.
 
 ### Webpage:
-![Picture](https://github.com/Nesa00/web-bluetooth-keyboard-ESP32/blob/main/web_keyboard.PNG)**
+![Picture](https://github.com/Nesa00/Web-Bluetooth-Keyboard-ESP32/blob/main/web_keyboard.PNG)**
 
